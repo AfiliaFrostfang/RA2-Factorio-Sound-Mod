@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-09-14
+  Changes:
+    - Updated compatibility for Factorio 2.1 Experimental
+    - Made it possible to choose between Allied and Soviet.

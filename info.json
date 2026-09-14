@@ -1,0 +1,9 @@
+{
+  "name": "ra2-eva-new-technology",
+  "version": "1.0.0",
+  "title": "RA2 Research Sound",
+  "description": "The EVAs from Red Alert 2 will now notify you when research finishes selectable between Allied and Soviet. This is a Fork of althalin's mod for 2.1 Experimental.",
+  "author": "AfiliaFrostfang",
+  "factorio_version": "2.1",
+  "dependencies": ["base", "! science-duck"]
+}
